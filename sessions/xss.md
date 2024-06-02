@@ -10,7 +10,7 @@ What you'll learn
 -----------------
 
 - XSS (Cross-Site Scripting)
-	- Types of XSS
+	- Types of XSS(Denver)
 		- Stored
 		- Reflected
 		- DOM
